@@ -6,6 +6,8 @@ description: Student project report courtesy of Darlene Gallant, Ursula Hester, 
 file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/29e4f61ca04d05cb3ab2931bdc1c7cc0_report_master.pdf
 file_size: 1827658
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture notes.
 file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/84d25beae013f42b60df33caee151684_class_15_notes.pdf
 file_size: 119081
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
