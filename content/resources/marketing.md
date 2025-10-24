@@ -4,8 +4,6 @@ description: Supporting spreadsheet.
 file: /courses/11-439-revitalizing-urban-main-streets-mission-hill-egleston-square-boston-spring-2003/b43f93f6ac0cffffa5efa40002bf3ead_marketing.xls
 file_size: 18432
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
